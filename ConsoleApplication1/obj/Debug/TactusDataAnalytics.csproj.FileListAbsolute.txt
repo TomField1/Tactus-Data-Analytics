@@ -1,0 +1,9 @@
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Tactus Data Analytics.exe.config
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Tactus Data Analytics.exe
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Tactus Data Analytics.pdb
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\TactusDataAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Tactus Data Analytics.exe
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Tactus Data Analytics.pdb
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Tactus-Data-Analytics\ConsoleApplication1\bin\Debug\Tactus Data Analytics.exe.config
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Tactus-Data-Analytics\ConsoleApplication1\obj\Debug\Tactus Data Analytics.exe
+C:\Users\tomeg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Tactus-Data-Analytics\ConsoleApplication1\obj\Debug\Tactus Data Analytics.pdb
